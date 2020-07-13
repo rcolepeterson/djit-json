@@ -1,11 +1,9 @@
 {
-    "LOCATION_MENU_ITEMS" : {
+  "LOCATION_MENU_ITEMS": {
     "stateLabel": "Choose State ",
-    "stateDescription":
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "stateDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
     "countyLabel": "Choose County",
-    "countiesDescription":
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "countiesDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
     "locations": [
       {
         "state": "Florida",
@@ -22,18 +20,3 @@
     ]
   }
 }
-  
-//   export const SEGMENT_MENU_ITEMS : {
-//     label: "Choose Segment",
-//     description:
-//       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-//     options: ["Job Seeker", "Job Mover", "Job Insecure", "Job Loss"],
-//   };
-  
-//   export const AGE_MENU_ITEMS : {
-//     label: "Select Age",
-//     description:
-//       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-//     options: ["18-29", "30-44", " 45-59", "60+"],
-//   };
-  
